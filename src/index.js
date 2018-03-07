@@ -125,7 +125,7 @@ import './index.css';
         selected: -1,
         channels: [],
         feeds: [
-          {title: 'ESPN Top News', url: 'https://crossorigin.me/http://www.espn.com/espn/rss/news'},
+          {title: 'ESPN Top News', url: 'http://crossorigin.me/http://www.espn.com/espn/rss/news'},
           {title: 'Google News', url: 'https://crossorigin.me/https://news.google.com/news/rss/?ned=us&gl=US&hl=en'},
           {title: 'Yahoo', url: 'https://crossorigin.me/https://www.yahoo.com/news/rss'},
           {title: 'Huffington Post', url: 'https://crossorigin.me/https://www.huffingtonpost.com/section/front-page/feed'},
