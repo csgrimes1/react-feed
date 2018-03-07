@@ -125,11 +125,13 @@ import './index.css';
         selected: -1,
         channels: [],
         feeds: [
-          {title: 'ESPN Top News', url: 'http://crossorigin.me/http://www.espn.com/espn/rss/news'},
+          {title: 'BBC Top News', url: 'https://crossorigin.me/https://feeds.bbci.co.uk/news/rss.xml#'},
           {title: 'Google News', url: 'https://crossorigin.me/https://news.google.com/news/rss/?ned=us&gl=US&hl=en'},
           {title: 'Yahoo', url: 'https://crossorigin.me/https://www.yahoo.com/news/rss'},
           {title: 'Huffington Post', url: 'https://crossorigin.me/https://www.huffingtonpost.com/section/front-page/feed'},
           {title: 'ABC', url: 'https://crossorigin.me/http://abcnews.go.com/abcnews/topstories'},
+          {title: 'Economist - US', url: 'https://crossorigin.me/https://www.economist.com/sections/united-states/rss.xml'},
+          {title: 'NY Times', url: 'https://crossorigin.me/https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml'}
         ]
       }
     }

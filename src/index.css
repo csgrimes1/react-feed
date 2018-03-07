@@ -62,4 +62,5 @@ button.story {
 
 img {
   margin: 1px 10px 1px 0px;
+  max-width: 600px;
 }
